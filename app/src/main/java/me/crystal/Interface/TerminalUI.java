@@ -57,7 +57,7 @@ public class TerminalUI {
     }
 
     public static void createAndShowGUI() {
-        JFrame frame = new JFrame("Distract Mode Terminal");
+        JFrame frame = new JFrame("Chaotical (The Chaotic-Terminal Experience)");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
 
