@@ -50,8 +50,10 @@ The data format the following:
 - **First row:** Endfight Time (in seconds).
 - **Second row:** Probability per Tick for Seed#1 of the inputted seeds.
 - **Third row:** Probability per Tick for Seed#2 of the inputted seeds.
-...
-**N-th row:** Probability per Tick for Seed#(N-1) of the inputted seeds.
+
+   **...**
+  
+- **N-th row:** Probability per Tick for Seed#(N-1) of the inputted seeds.
 
 ## Encryption and Decryption
 
