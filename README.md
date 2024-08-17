@@ -42,7 +42,16 @@ Chaotical is a terminal-based application designed for command management, runni
 
 ## Built-In Endfight Simulators
 
-Chaotical includes built-in functionality for endfight simulations (Stay productive).
+Chaotical includes built-in functionality for endfight simulations (Stay productive). The data is printed to the console where the program is being ran. The data can be copy pasted into a `.cvs` file and then be imported into google sheets to make visual chart of the data. You can make the chart by `insert > chart` while an entry of the data is selected.
+
+### Data Format
+
+The data format the following:
+**First row:** Endfight Time (in seconds).
+**Second row:** Probability per Tick for Seed#1 of the inputted seeds.
+**Third row:** Probability per Tick for Seed#2 of the inputted seeds.
+...
+**N-th row:** Probability per Tick for Seed#(N-1) of the inputted seeds.
 
 ## Encryption and Decryption
 
